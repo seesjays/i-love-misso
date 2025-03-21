@@ -1,2 +1,2 @@
-print("hello chat")
-print(2+2)
+print("hello world")
+print(4+4)
